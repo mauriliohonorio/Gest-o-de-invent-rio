@@ -2,25 +2,25 @@
     <sys_user_role action="INSERT_OR_UPDATE">
         <assignable_by/>
         <can_delegate>true</can_delegate>
-        <description>Administradores do App</description>
+        <description>Analistas de inventários</description>
         <elevated_privilege>false</elevated_privilege>
         <grantable>true</grantable>
         <includes_roles/>
-        <name>x_1216923_gest_o_0.Supervisores</name>
+        <name>x_1216923_gest_o_0.analistas</name>
         <requires_subscription>-1</requires_subscription>
         <scoped_admin>false</scoped_admin>
-        <suffix>Supervisores</suffix>
+        <suffix>analistas</suffix>
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-12-07 12:36:35</sys_created_on>
-        <sys_id>480a555c93c771100fcaf5f08bba1050</sys_id>
+        <sys_created_on>2023-12-07 21:15:24</sys_created_on>
+        <sys_id>9ca05b5c938f71100fcaf5f08bba1070</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_1216923_gest_o_0.Supervisores</sys_name>
+        <sys_name>x_1216923_gest_o_0.analistas</sys_name>
         <sys_package display_value="Gestão de Inventário" source="x_1216923_gest_o_0">cc56240c934731100fcaf5f08bba1055</sys_package>
         <sys_policy/>
         <sys_scope display_value="Gestão de Inventário">cc56240c934731100fcaf5f08bba1055</sys_scope>
-        <sys_update_name>sys_user_role_480a555c93c771100fcaf5f08bba1050</sys_update_name>
+        <sys_update_name>sys_user_role_9ca05b5c938f71100fcaf5f08bba1070</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-07 12:36:35</sys_updated_on>
+        <sys_updated_on>2023-12-07 21:15:24</sys_updated_on>
     </sys_user_role>
 </record_update>
