@@ -4,15 +4,15 @@
         <role/>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-12-07 12:36:35</sys_created_on>
-        <sys_id>040a555c93c771100fcaf5f08bba105f</sys_id>
+        <sys_created_on>2023-12-07 20:13:40</sys_created_on>
+        <sys_id>b3928b9c934f71100fcaf5f08bba10e1</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>480a555c93c771100fcaf5f08bba1050</sys_name>
+        <sys_name>38928b9c934f71100fcaf5f08bba1040</sys_name>
         <sys_package display_value="Gestão de Inventário" source="x_1216923_gest_o_0">cc56240c934731100fcaf5f08bba1055</sys_package>
         <sys_policy/>
         <sys_scope display_value="Gestão de Inventário">cc56240c934731100fcaf5f08bba1055</sys_scope>
-        <sys_update_name>sys_embedded_help_role_040a555c93c771100fcaf5f08bba105f</sys_update_name>
+        <sys_update_name>sys_embedded_help_role_b3928b9c934f71100fcaf5f08bba10e1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-07 12:36:35</sys_updated_on>
+        <sys_updated_on>2023-12-07 20:13:40</sys_updated_on>
     </sys_embedded_help_role>
 </record_update>
