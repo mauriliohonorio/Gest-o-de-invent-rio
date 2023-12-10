@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>global_search_configurations</name>
+        <page display_value="Gestão de Inventário">71b7d0d993cf35100fcaf5f08bba107c</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-10 10:20:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>f5b7d0d91ecf35102e04bfc3bda2b3ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global_search_configurations</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1216923_gest_o_0">cc56240c934731100fcaf5f08bba1055</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">cc56240c934731100fcaf5f08bba1055</sys_scope>
+        <sys_update_name>sys_ux_page_property_f5b7d0d91ecf35102e04bfc3bda2b3ba</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-10 10:20:56</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1216923_gest_o_0.71b7d0d993cf35100fcaf5f08bba107c.root.global_search_configurations</unique_name>
+        <value>{&#13;
+  "globalSearchContextConfigId": "00731b9d5b231010d9a5ce1a8581c7dd"&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=f5b7d0d91ecf35102e04bfc3bda2b3ba"/>
+</record_update>

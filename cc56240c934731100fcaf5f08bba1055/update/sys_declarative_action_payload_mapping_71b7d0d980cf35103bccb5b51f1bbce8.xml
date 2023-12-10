@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_declarative_action_payload_mapping">
+    <sys_declarative_action_payload_mapping action="INSERT_OR_UPDATE">
+        <action_payload_definition display_value="Reject">b5b7d0d984cf3510faf47e0389cea9e9</action_payload_definition>
+        <label>Reject Evam</label>
+        <model display_value="Evam">035d270073151010c342d5fdbdf6a715</model>
+        <payload_map>table={{table}}^sysId={{sys_id}}^EQ</payload_map>
+        <sys_class_name>sys_declarative_action_payload_mapping</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-10 10:20:57</sys_created_on>
+        <sys_id>71b7d0d980cf35103bccb5b51f1bbce8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reject Evam</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1216923_gest_o_0">cc56240c934731100fcaf5f08bba1055</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">cc56240c934731100fcaf5f08bba1055</sys_scope>
+        <sys_update_name>sys_declarative_action_payload_mapping_71b7d0d980cf35103bccb5b51f1bbce8</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-10 10:20:57</sys_updated_on>
+    </sys_declarative_action_payload_mapping>
+</record_update>

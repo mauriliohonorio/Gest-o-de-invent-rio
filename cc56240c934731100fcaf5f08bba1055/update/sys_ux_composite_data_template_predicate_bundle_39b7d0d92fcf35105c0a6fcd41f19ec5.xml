@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate_bundle">
+    <sys_ux_composite_data_template_predicate_bundle action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <name>Popular articles bundle</name>
+        <sys_class_name>sys_ux_composite_data_template_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-10 10:20:58</sys_created_on>
+        <sys_id>39b7d0d92fcf35105c0a6fcd41f19ec5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Popular articles bundle</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1216923_gest_o_0">cc56240c934731100fcaf5f08bba1055</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">cc56240c934731100fcaf5f08bba1055</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_bundle_39b7d0d92fcf35105c0a6fcd41f19ec5</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-10 10:20:58</sys_updated_on>
+    </sys_ux_composite_data_template_predicate_bundle>
+</record_update>

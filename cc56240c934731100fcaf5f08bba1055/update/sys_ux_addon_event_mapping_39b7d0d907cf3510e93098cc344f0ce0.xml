@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_addon_event_mapping">
+    <sys_ux_addon_event_mapping action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <controller/>
+        <description/>
+        <name>Related items Mapping</name>
+        <parent_macroponent display_value="Catalog Item Page">bdb7d0d966cf3510f4355a1bafc320e0</parent_macroponent>
+        <source_component/>
+        <source_da display_value="navigation">d46f400473211010c342d5fdbdf6a7cf</source_da>
+        <source_element_id>data_row_1</source_element_id>
+        <sys_class_name>sys_ux_addon_event_mapping</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-10 10:20:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>39b7d0d907cf3510e93098cc344f0ce0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Related items Mapping</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Gestão de Inventário" source="x_1216923_gest_o_0">cc56240c934731100fcaf5f08bba1055</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">cc56240c934731100fcaf5f08bba1055</sys_scope>
+        <sys_update_name>sys_ux_addon_event_mapping_39b7d0d907cf3510e93098cc344f0ce0</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-10 10:20:57</sys_updated_on>
+        <target_event display_value="Catalog item card clicked">f5b7d0d9bfcf3510c8dd791d8ee2b4e1</target_event>
+        <target_payload_mapping>{
+  "type": "MAP_CONTAINER",
+  "container": {
+    "sysId": {
+      "type": "EVENT_PAYLOAD_BINDING",
+      "binding": {
+        "address": [
+          "sysId"
+        ]
+      }
+    },
+    "table": {
+      "type": "EVENT_PAYLOAD_BINDING",
+      "binding": {
+        "address": [
+          "table"
+        ]
+      }
+    }
+  }
+}</target_payload_mapping>
+    </sys_ux_addon_event_mapping>
+</record_update>

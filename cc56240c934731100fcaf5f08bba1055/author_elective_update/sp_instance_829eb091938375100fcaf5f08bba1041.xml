@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">f09efc91938375100fcaf5f08bba10a8</sp_column>
+        <sp_widget display_value="Form">fd1f4ec347730200ba13a5554ee490c0</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 13:10:46</sys_created_on>
+        <sys_id>829eb091938375100fcaf5f08bba1041</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Gestão de Inventário" source="x_1216923_gest_o_0">cc56240c934731100fcaf5f08bba1055</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">cc56240c934731100fcaf5f08bba1055</sys_scope>
+        <sys_update_name>sp_instance_829eb091938375100fcaf5f08bba1041</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 13:11:20</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"disableUIActions": {
+		"value": "",
+		"displayValue": ""
+	},
+	"showFormView": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"omitHeaderOptions": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=829eb091938375100fcaf5f08bba1041"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">cc56240c934731100fcaf5f08bba1055</application>
+        <file_path/>
+        <instance_id>aa99b5a11bae351cba5ceb9b2d4bcb3a</instance_id>
+        <instance_name>dev213603</instance_name>
+        <name>sp_instance_829eb091938375100fcaf5f08bba1041</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="2"&gt;f09efc91938375100fcaf5f08bba10a8&lt;/sp_column&gt;&lt;sp_widget display_value="Form"&gt;fd1f4ec347730200ba13a5554ee490c0&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-12-10 13:10:46&lt;/sys_created_on&gt;&lt;sys_id&gt;829eb091938375100fcaf5f08bba1041&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Gestão de Inventário" source="x_1216923_gest_o_0"&gt;cc56240c934731100fcaf5f08bba1055&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Gestão de Inventário"&gt;cc56240c934731100fcaf5f08bba1055&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_829eb091938375100fcaf5f08bba1041&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-12-10 13:11:20&lt;/sys_updated_on&gt;&lt;title/&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"disableUIActions": {
+		"value": "",
+		"displayValue": ""
+	},
+	"showFormView": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"omitHeaderOptions": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=829eb091938375100fcaf5f08bba1041"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-144349841</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>64b52d14930b71100fcaf5f08bba107c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 13:11:20</sys_created_on>
+        <sys_id>12beb0d1938375100fcaf5f08bba1004</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c53da8a370000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 13:11:20</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>92be7451b2837510db1374ca914fe3e2</update_guid>
+        <update_guid_history>92be7451b2837510db1374ca914fe3e2:-144349841,eeae70d1d88375102d73100bc9c00e00:-510344900,0a9eb091d88375104638d2c4b1c20042:-1227153394</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">43ce3891938375100fcaf5f08bba10cd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 13:11:39</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>70bdbff279b84e808f8274659f475ce9</sys_id>
+        <sys_metadata>829eb091938375100fcaf5f08bba1041</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Gestão de Inventário" source="x_1216923_gest_o_0">cc56240c934731100fcaf5f08bba1055</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">cc56240c934731100fcaf5f08bba1055</sys_scope>
+        <sys_scope_delete display_value="">20350ef08db746a48250ab49a0f42a64</sys_scope_delete>
+        <sys_update_name>sp_instance_829eb091938375100fcaf5f08bba1041</sys_update_name>
+        <sys_update_version display_value="sp_instance_829eb091938375100fcaf5f08bba1041">12beb0d1938375100fcaf5f08bba1004</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 13:11:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

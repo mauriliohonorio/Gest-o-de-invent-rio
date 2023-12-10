@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability display_value="Public">75b7d0d9e5cf35103a16de1af88142ea</applicability>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-10 10:20:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>39b7d0d9f1cf351025eddc8ff88fe1ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Gestão de Inventário" source="x_1216923_gest_o_0">cc56240c934731100fcaf5f08bba1055</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">cc56240c934731100fcaf5f08bba1055</sys_scope>
+        <sys_update_name>m2m_app_config_theme_39b7d0d9f1cf351025eddc8ff88fe1ea</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-10 10:20:56</sys_updated_on>
+        <theme display_value="Light Theme">bdb7d0d919cf3510976be6d67cb989ea</theme>
+        <ux_app_configuration display_value="Gestão de Inventário Config">75b7d0d993cf35100fcaf5f08bba107c</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

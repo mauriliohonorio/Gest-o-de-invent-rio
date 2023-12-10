@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Gestão de Inventário Config">75b7d0d993cf35100fcaf5f08bba107c</app_config>
+        <description/>
+        <event_mappings>[ {
+  "eventMappingId" : "ckhbbvlebuaaaaccddddhhhhhnqwpffceec",
+  "isConfiguration" : false,
+  "offRowStorageId" : null,
+  "sourceEventApiName" : "cc56240c934731100fcaf5f08bba1055.GLIDE_FORM_1_SAVE_RELAY_39b7d0d9e0cf35103b1d714635cef9d4",
+  "sourceEventCorrelationId" : null,
+  "sourceEventDefinition" : {
+    "apiName" : "cc56240c934731100fcaf5f08bba1055.GLIDE_FORM_1_SAVE_RELAY_39b7d0d9e0cf35103b1d714635cef9d4",
+    "id" : null,
+    "type" : "UXEVENT"
+  },
+  "sourceEventSysId" : null,
+  "targets" : [ {
+    "broker" : null,
+    "clientScript" : null,
+    "conditional" : null,
+    "declarativeAction" : null,
+    "event" : null,
+    "operation" : {
+      "dataBrokerId" : "dc6e87a5232200100e4bc50947bf654b",
+      "operationName" : "SAVE",
+      "parentResourceId" : "glide_form_1",
+      "payload" : {
+        "type" : "JSON_LITERAL",
+        "value" : { }
+      }
+    },
+    "targetId" : "ckhbbvlebuaaaaccccddhhhhhsggddhkxpf",
+    "type" : "DATABROKER_OP"
+  } ]
+}, {
+  "eventMappingId" : "ckhbbvjtghhaaaabbeeddhhhhhslggaaaabbhm",
+  "isConfiguration" : false,
+  "offRowStorageId" : null,
+  "sourceEventApiName" : "cc56240c934731100fcaf5f08bba1055.GLIDE_FORM_1_SET_MANDATORY_RELAY_39b7d0d9e0cf35103b1d714635cef9d4",
+  "sourceEventCorrelationId" : null,
+  "sourceEventDefinition" : {
+    "apiName" : "cc56240c934731100fcaf5f08bba1055.GLIDE_FORM_1_SET_MANDATORY_RELAY_39b7d0d9e0cf35103b1d714635cef9d4",
+    "id" : null,
+    "type" : "UXEVENT"
+  },
+  "sourceEventSysId" : null,
+  "targets" : [ {
+    "broker" : null,
+    "clientScript" : null,
+    "conditional" : null,
+    "declarativeAction" : null,
+    "event" : null,
+    "operation" : {
+      "dataBrokerId" : "dc6e87a5232200100e4bc50947bf654b",
+      "operationName" : "SET_MANDATORY",
+      "parentResourceId" : "glide_form_1",
+      "payload" : {
+        "type" : "JSON_LITERAL",
+        "value" : { }
+      }
+    },
+    "targetId" : "ckhbbvjtghhaaaabbddddhhhhhcmshhbbaabk",
+    "type" : "DATABROKER_OP"
+  } ]
+}, {
+  "eventMappingId" : "ckhbbvirmeeaaaaaarddhhhhhpeeygbabo",
+  "isConfiguration" : false,
+  "offRowStorageId" : null,
+  "sourceEventApiName" : "cc56240c934731100fcaf5f08bba1055.GLIDE_FORM_1_SET_VALUE_RELAY_39b7d0d9e0cf35103b1d714635cef9d4",
+  "sourceEventCorrelationId" : null,
+  "sourceEventDefinition" : {
+    "apiName" : "cc56240c934731100fcaf5f08bba1055.GLIDE_FORM_1_SET_VALUE_RELAY_39b7d0d9e0cf35103b1d714635cef9d4",
+    "id" : null,
+    "type" : "UXEVENT"
+  },
+  "sourceEventSysId" : null,
+  "targets" : [ {
+    "broker" : null,
+    "clientScript" : null,
+    "conditional" : null,
+    "declarativeAction" : null,
+    "event" : null,
+    "operation" : {
+      "dataBrokerId" : "dc6e87a5232200100e4bc50947bf654b",
+      "operationName" : "SET_VALUE",
+      "parentResourceId" : "glide_form_1",
+      "payload" : {
+        "type" : "JSON_LITERAL",
+        "value" : { }
+      }
+    },
+    "targetId" : "ckhbbvirmddaaaaaaqddhhhhhaauaehhivw",
+    "type" : "DATABROKER_OP"
+  } ]
+}, {
+  "eventMappingId" : "ckfejcxhhyaaaacceeddhhhbemzsynabb",
+  "isConfiguration" : false,
+  "offRowStorageId" : null,
+  "sourceEventApiName" : "x_1216923_gest_o_0.NAV_ITEM_SELECTED_RELAY_39b7d0d9e0cf35103b1d714635cef9d4",
+  "sourceEventCorrelationId" : null,
+  "sourceEventDefinition" : {
+    "apiName" : "x_1216923_gest_o_0.NAV_ITEM_SELECTED_RELAY_39b7d0d9e0cf35103b1d714635cef9d4",
+    "id" : null,
+    "type" : "UXEVENT"
+  },
+  "sourceEventSysId" : null,
+  "targets" : [ {
+    "broker" : null,
+    "clientScript" : null,
+    "conditional" : null,
+    "declarativeAction" : null,
+    "event" : {
+      "apiName" : "sn_canvas_core.NAV_ITEM_SELECTED",
+      "payload" : {
+        "type" : "MAP_CONTAINER",
+        "container" : {
+          "route" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "route" ]
+            }
+          },
+          "fields" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "fields" ]
+            }
+          },
+          "params" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "params" ]
+            }
+          },
+          "redirect" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "redirect" ]
+            }
+          },
+          "passiveNavigation" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "passiveNavigation" ]
+            }
+          },
+          "title" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "title" ]
+            }
+          },
+          "multiInstField" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "multiInstField" ]
+            }
+          },
+          "targetRoute" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "targetRoute" ]
+            }
+          },
+          "external" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "external" ]
+            }
+          }
+        }
+      },
+      "sysId" : "8b82bf18e5276c8e423b6e4e0889b463"
+    },
+    "operation" : null,
+    "targetId" : "ckfejcxhhyaaaaccddddhhhbzxegnyacc",
+    "type" : "EVENT"
+  } ]
+} ]</event_mappings>
+        <macroponent display_value="Tasks">39b7d0d9e0cf35103b1d714635cef9d4</macroponent>
+        <macroponent_config>{
+  "approvalId" : {
+    "type" : "CONTEXT_BINDING",
+    "binding" : {
+      "address" : [ "approvalId" ],
+      "category" : "props"
+    }
+  },
+  "label" : {
+    "type" : "TRANSLATION_LITERAL",
+    "value" : {
+      "code" : null,
+      "message" : "",
+      "comment" : ""
+    }
+  },
+  "bare" : {
+    "type" : "JSON_LITERAL",
+    "value" : true
+  },
+  "scrollable" : {
+    "type" : "JSON_LITERAL",
+    "value" : "none"
+  },
+  "headerLevel" : {
+    "type" : "JSON_LITERAL",
+    "value" : "1"
+  },
+  "headingOnlyVisibleToScreenReaders" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "interceptNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "propagateNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  }
+}</macroponent_config>
+        <name>Tasks Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Record Page(task)">7db7d0d946cf3510fdf7c5c38c5e37de</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Indicate your decision">f5b7d0d9f0cf3510e93c0ad856b5afd8</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-10 10:20:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f5b7d0d9fdcf35109e35ae8dbb7ef7aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tasks Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Gestão de Inventário" source="x_1216923_gest_o_0">cc56240c934731100fcaf5f08bba1055</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">cc56240c934731100fcaf5f08bba1055</sys_scope>
+        <sys_update_name>sys_ux_screen_f5b7d0d9fdcf35109e35ae8dbb7ef7aa</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-10 10:20:55</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=f5b7d0d9fdcf35109e35ae8dbb7ef7aa"/>
+</record_update>
